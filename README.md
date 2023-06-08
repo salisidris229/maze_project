@@ -43,16 +43,6 @@ Note: For big mazes (more than 1000) it's better to use RD generator because DFS
 
 -disable-mouse - Disable mouse control
 
-Configuration file is located in following directories:
-Linux
-
-~/.local/share/DragonSWDev/glmaze/
-Windows
-
-%appdata%\DragonSWDev\glmaze\
-macOS
-
-~/Library/Application Support/glmaze/
 Controls
 
 By default camera is controlled by mouse and W/S keys are used for moving forward/backward. When mouse control is disabled then camera is rotated left and right by A and D keys.
